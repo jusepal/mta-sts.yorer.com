@@ -1,5 +1,4 @@
 version: STSv1
-mode: testing
-mx: mx1.forwardemail.net
-mx: mx2.forwardemail.net
+mode: enforce
+mx: mx.yorer.com
 max_age: 86400
